@@ -20,7 +20,7 @@
     "prepublishOnly": "npm test && npm run prettier && npm run lint"
   },
   "keywords": [
-    "react-use-select-hook",
+    "react-use-select-hook"
   ],
   "author": "Vadim Andreev (skiglock)",
   "peerDependencies": {
